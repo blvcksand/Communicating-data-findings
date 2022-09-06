@@ -1,5 +1,4 @@
 # (Communicating Data )
-## by (Eleojo E. Adegbe )
 
 
 ## Dataset
